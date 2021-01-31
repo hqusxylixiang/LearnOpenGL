@@ -1,0 +1,7 @@
+﻿  Camera.cpp
+  LearnOpenGL.cpp
+  Shader.cpp
+  正在生成代码...
+  glad.c
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  LearnOpenGL.vcxproj -> D:\LearnOpenGL\LearnOpenGL\Debug\LearnOpenGL.exe
